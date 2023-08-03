@@ -1,0 +1,12 @@
+.removeManager {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.removeManager button {
+    width: 80px;
+    height: 30px;
+    border-radius: 30px;
+}

@@ -1,0 +1,7 @@
+.block {
+    display: flex !important;
+    /* height: 90vh; */
+    height: 100vh;
+    /* padding: 30px; */
+    margin: 0 auto;
+}

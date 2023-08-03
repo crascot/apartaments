@@ -1,0 +1,33 @@
+.grid {
+    max-width: 25vw;
+    height: 100vh;
+}
+
+.grid .title {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+    background-color: #F4FAFF;
+}
+
+.grid .form {
+    padding: 30px;
+}
+
+.grid .submit {
+    width: 100%;
+    padding: 10px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-end;
+}
+.submit button:nth-child(1) {
+    height: 50px;
+}
+.submit button:nth-child(2) {
+    color: gray;
+}

@@ -1,0 +1,37 @@
+.TableBlock th, td {
+    white-space: nowrap;
+}
+
+.TableBlock th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.TableBlock td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.TableBlock .status {
+    font-weight: 500;
+    display: block;
+    width: 74px;
+    text-align: center;
+    padding: 6.5px 9px;
+    border-radius: 5px;
+}
+
+.active {
+    background-color: #CEDEFC;
+}
+.booking {
+    background-color: #FCECCE;
+}
+.bought {
+    background-color: #D4FCCE;
+}
+.installment {
+    background-color: #CEFCED;
+}
+.barter {
+    background-color: #EDCEFC;
+}

@@ -1,0 +1,15 @@
+.container {
+    height: 100vh;
+    position: relative;
+}
+
+.card {
+    position: absolute;
+    top: 30%;
+    padding: 10px 30px;
+}
+
+.actionBlock {
+    display: flex;
+    justify-content: flex-end;
+}

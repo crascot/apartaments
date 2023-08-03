@@ -1,0 +1,26 @@
+.header {
+    max-height: 41px !important;
+    margin-bottom: 0 !important;
+}
+
+.titles span {
+    cursor: pointer;
+    border-bottom: 2px solid gray;
+    max-height: 30px;
+    padding: 0 15px;
+    padding-bottom: 13px;
+}
+.titles span:hover {
+    color: #4D4AEA;
+    border-bottom: 2px solid #4D4AEA;
+}
+
+.header .active {
+    color: #4D4AEA !important;
+    border-bottom: 2px solid #4D4AEA !important;
+}
+
+.filter {
+    height: 30px !important;
+    color: black !important;
+}
